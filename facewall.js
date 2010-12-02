@@ -1,4 +1,4 @@
-// a really simple bounce / echo server which returns a string to all users
+// .a really simple bounce / echo server which returns a string to all users
 
 var sys = require("sys")
   , ws = require('../lib/ws/server');
